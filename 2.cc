@@ -2,5 +2,6 @@
 
 int func2()
 {
+oooooooooooooo
   return 1;
 }
