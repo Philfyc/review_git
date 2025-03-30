@@ -2,5 +2,6 @@
 
 void func1()
 {
+    int a = 10;
     std::cout << "func1" << std::endl;
 }
